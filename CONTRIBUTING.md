@@ -14,5 +14,6 @@ Thank you for considering contributing to this project! We appreciate your inter
 - Keep your changes focused and limited in scope.
 - Write clear commit messages describing your changes.
 - If you're adding examples, ensure they align with clean code principles and best practices.
+- **Code Reviews**: Be prepared for feedback on your pull request and be willing to make adjustments based on reviewer suggestions.
 
 Thank you for your contribution! We look forward to reviewing it.
