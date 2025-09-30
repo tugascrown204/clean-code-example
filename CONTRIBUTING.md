@@ -6,7 +6,7 @@ Thank you for considering contributing to this project! We appreciate your inter
 1. **Fork the Repository**: Create your own copy of the repository by forking it.
 2. **Create a Branch**: Use a descriptive branch name that relates to your changes, e.g., `fix-typo` or `add-python-example`.
 3. **Make Your Changes**: Implement your changes in your branch.
-4. **Write Tests**: If applicable, ensure your changes are covered by tests. **Prefer unit tests to verify functionality and integration tests to ensure components interact correctly. Ensure that your tests are clear and easy to understand.**
+4. **Write Tests**: If applicable, ensure your changes are covered by tests. **Prefer unit tests to verify functionality and integration tests to ensure components interact correctly. Ensure that your tests are clear, easy to understand, and effectively demonstrate the intended use cases.**
 5. **Submit a Pull Request**: Go to the original repository and submit a PR describing your changes.
 
 ### Guidelines
